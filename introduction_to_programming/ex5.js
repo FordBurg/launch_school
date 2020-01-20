@@ -1,0 +1,1 @@
+console.log('5' + 10); // logs 510 because it concatenates a number with a string which results in a string as the number is coerced into a string in this situation
